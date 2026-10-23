@@ -14,3 +14,6 @@ CUIDEMOS EL MEDIO AMBIENTE
 - Utilizar bolsas reutilizables.
 - Caminar o usar bicicleta cuando sea posible.
 - Plantar árboles y cuidar las áreas verdes.
+
+Autor:
+RAHM ESSENWANGER
