@@ -1,4 +1,5 @@
- cuidemos-el-medio-ambiente
+CUIDEMOS EL MEDIO AMBIENTE 
+
  Este proyecto busca promover el cuidado del medio ambiente mediante acciones que ayuden a reducir la contaminación y proteger la naturaleza.
  
 1) Recomendaciones para cuidar el planeta:
